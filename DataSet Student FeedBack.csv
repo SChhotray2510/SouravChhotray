@@ -1,0 +1,170 @@
+Timestamp,Age of the instructor,Gender,Is that a major course(more than 3) or minor(optional) course?,Beauty of the instructor,Which state does s/he belong to?,Rate your instructor?
+3/2/2023 7:28:08,30,Male,2,4,Odisha,5
+3/2/2023 15:04:50,54,Male,2,3,West bengal,4
+3/2/2023 15:04:56,50,Male,2,3,Odisha ,3
+3/2/2023 15:05:13,23,Female,1,5,Odisha,2
+3/2/2023 15:05:44,44,Male,1,5,Gujurat,4
+3/2/2023 15:06:08,18,Male,1,4,Sikkim,1
+3/2/2023 15:06:35,22,Male,2,3,Odisha,5
+3/2/2023 15:07:24,30,Male,2,5,Odisha,5
+3/2/2023 15:07:35,28,Male,2,5,Odisha,5
+3/2/2023 15:07:42,33,Male,2,3,Orissa,5
+3/2/2023 15:07:48,35,Female,2,4,Odisha,5
+3/2/2023 15:09:40,30,Male,No,5,Bihar,5
+3/2/2023 15:16:15,Asish Ranjan,Male,2,4,Bihar,5
+3/2/2023 15:17:25,36,Male,2,5,Odisha,4
+3/2/2023 15:18:20,28,Male,2,4,Odisha,4
+3/2/2023 15:53:35,40,Male,1,3,Odisha,5
+3/2/2023 15:54:46,45,Male,2,4,Odisha ,5
+3/2/2023 15:55:50,40,Female,2,,Odisha,5
+3/2/2023 15:56:32,38,Female,2,4,Odisha,5
+3/2/2023 15:57:22,45,Female,2,3,Odisha,5
+3/2/2023 15:59:22,30+,Male,2,4,Odisha,3
+3/2/2023 15:59:27,40,Male,2,5,Odisha ,4
+3/2/2023 16:01:37,25,Male,2,3,Odisha,3
+3/2/2023 16:02:01,36,Male,2,3,Delhi,3
+3/2/2023 16:02:08,28,Male,2,3,Odisha ,5
+3/2/2023 16:02:38,38,Male,,2,Odisha,3
+3/2/2023 16:09:01,32,Female,2,4,Odisha ,4
+3/2/2023 16:09:16,40,Male,1,4,Bihar,5
+3/2/2023 16:09:53,27,Male,2,4,Odisha ,5
+3/2/2023 16:13:17,33,Male,,,Orissa,
+3/2/2023 17:04:30,around 40's,Female,2,5,Odisha,5
+3/2/2023 17:04:54,30's,Male,2,4,Bihar,5
+3/2/2023 17:05:32,around 30's,Female,2,5,Odisha,5
+3/2/2023 17:06:01," over 40""s",Male,2,4,Odisha,5
+3/2/2023 17:23:20,36,Female,2,5,Orissa,5
+3/2/2023 19:13:03,30,Female,2,4,West Bengal ,2
+3/2/2023 19:14:59,27,Female,1,3,Odisha,4
+3/2/2023 19:16:11,32,Male,2,2,Bihar,3
+3/2/2023 19:17:16,45,Male,2,3,Odisha,5
+3/2/2023 19:18:16,38,Male,2,3,Uttar Pradesh ,3
+3/2/2023 19:19:30,35,Male,2,5,Jharkhand ,3
+3/2/2023 19:50:16,35,Female,1,4,Odisha ,5
+3/2/2023 19:50:55,30,Male,2,3,Bihar,5
+3/2/2023 19:51:27,28,Female,2,4,Odisha ,5
+3/2/2023 19:52:02,40,Male,2,3,Odisha ,4
+3/2/2023 19:52:48,32,Male,2,5,Delhi,4
+3/2/2023 19:59:39,40,Female,1,4,Odisha ,5
+3/2/2023 20:15:22,40,Male,2,3,Odisha,3
+3/2/2023 20:16:02,35,Female,1,4,Odisha ,3
+3/2/2023 20:16:30,42,Male,1,3,Odisha ,5
+3/2/2023 20:16:47,50,Female,2,3,Odisha ,3
+3/2/2023 20:17:20,32,Male,1,3,Bihar,3
+3/2/2023 20:17:30,45,Male,2,4,Odisha ,4
+3/2/2023 20:18:02,34,Male,2,4,Odisha ,3
+3/2/2023 20:19:27,35,Male,1,3,Bihar,4
+3/2/2023 20:46:01,Susmita Dash,Female,2,5,Odisha,5
+3/2/2023 21:54:30,20,Male,2,4,Odisha ,3
+3/3/2023 7:38:28,35,Female,2,5,Odisha ,5
+3/3/2023 7:38:56,55,Male,2,5,Odisha ,5
+3/3/2023 7:39:23,32,Female,2,5,Odisha ,5
+3/3/2023 7:39:47,30,Male,2,5,Bihar,5
+3/3/2023 7:40:13,45,Male,2,5,Odisha,5
+3/3/2023 7:43:52,35,Female,2,5,Odisha,5
+3/3/2023 9:25:21,32,Male,2,3,Odisha ,5
+3/3/2023 9:35:02,44,Male,2,3,Odisha ,5
+3/3/2023 17:46:31,30,Male,2,3,Bihar,4
+3/3/2023 17:47:41,32,Female,1,3,Odisha,5
+3/3/2023 17:48:22,28,Female,2,4,West Bengal ,3
+3/3/2023 17:49:19,57,Female,1,3,Odisha,5
+3/3/2023 17:52:10,50,Male,2,4,Odisha,5
+3/6/2023 11:29:58,32,Female,2,3,Odisha ,4
+3/6/2023 11:30:20,36,Male,1,5,Odisha ,5
+3/6/2023 11:30:43,40,Male,2,2,Jharkhand ,5
+3/6/2023 11:31:02,30,Male,2,2,Uttar Pradesh ,3
+3/6/2023 14:18:19,35,Male,2,4,Odisha ,4
+7/31/2024 13:09:32,40,Male,2,5,Odisha ,5
+7/31/2024 13:09:56,24,Male,2,5,Odisha ,5
+7/31/2024 13:12:02,32,Male,1,4,West Bengal ,5
+7/31/2024 13:13:55,43,Female,1,3,Odisha ,4
+7/31/2024 13:15:43,30,Male,2,5,Odisha ,4
+7/31/2024 13:16:30,25,Male,2,5,No idea,5
+7/31/2024 13:19:21,39,Male,2,5,Odisha,5
+7/31/2024 13:20:07,35,Male,2,5,Odisha,5
+7/31/2024 13:22:02,35,Male,1,3,Bhubaneswar ,4
+7/31/2024 13:24:34,29,Male,2,5,Odisha,5
+7/31/2024 13:24:44,30-40,Male,2,4,Bhubaneswar ,5
+7/31/2024 13:30:17,28,Male,2,4,West Bengal,5
+7/31/2024 13:32:07,28,Male,2,4,West Bengal,5
+7/31/2024 13:44:53,35,Female,2,5,Odisha ,5
+7/31/2024 13:45:09,35,Male,2,5,Odisha ,5
+7/31/2024 13:45:17,34,Female,1,4,Assam ,4
+7/31/2024 13:45:32,40,Female,1,5,Bhubaneswar ,5
+7/31/2024 13:45:36,29,Female,2,5,Bihar ,4
+7/31/2024 13:45:43,28,Male,1,5,Jharkhand ,5
+7/31/2024 13:46:23,26,Female,1,5,Andhrapradesh ,5
+7/31/2024 13:46:46,35,Male,1,5,Odisha,5
+7/31/2024 13:50:01,36,Male,2,3,Bhubaneswar ,3
+7/31/2024 13:51:16,30-35,Male,2,4,He belongs to West Bengal ,4
+7/31/2024 13:51:25,56,Male,2,2,Pok ,3
+7/31/2024 13:52:40,67,Female,2,2,Delhi ,2
+7/31/2024 13:53:46,28,Male,2,4,West bengal,4
+7/31/2024 13:54:06,28,Male,2,5,West Bengal ,5
+7/31/2024 13:54:09,35,Male,1,3,Bhubaneswar ,3
+7/31/2024 13:54:24,28,Male,2,4,West Bengal ,4
+7/31/2024 13:55:41,28,Male,2,4,West bengal,4
+7/31/2024 13:56:10,28,Male,2,4,West bengal,5
+7/31/2024 13:56:14,35,Male,2,5,Odisha,5
+7/31/2024 13:56:32,35,Male,2,5,Odisha,5
+7/31/2024 13:56:50,28,Male,2,5,west bengal,5
+7/31/2024 13:57:19,28,Male,2,5,west bengal,5
+7/31/2024 14:03:04,25,Male,1,5,No idea ,5
+7/31/2024 14:03:55,27,Female,1,5,Odisha,4
+7/31/2024 14:04:29,25,Male,1,3,Maharastra,4
+7/31/2024 14:04:56,45,Female,2,4,Odisha,4
+7/31/2024 14:05:24,67,Male,1,3,Telengana,5
+7/31/2024 14:05:58,33,Female,2,4,Chattisgarh,4
+7/31/2024 14:06:30,50,Male,1,2,Odisha,4
+7/31/2024 14:06:57,56,Female,2,3,Goa,5
+7/31/2024 14:19:09,35,Male,1,3,Odisha ,4
+7/31/2024 14:21:38,28,Male,2,4,Bengal,5
+7/31/2024 14:28:37,35,Male,2,1,Odisha,4
+7/31/2024 14:29:22,30,Male,1,4,West Bengal,3
+7/31/2024 14:30:58,29,Male,2,5,Bijar,2
+7/31/2024 14:31:34,37,Male,1,3,Odisha,2
+7/31/2024 14:35:30,38,Male,2,5,Chattisgarh,2
+7/31/2024 14:36:29,N/A,Female,2,4,0,2
+7/31/2024 14:37:02,0,Female,2,2,0,3
+7/31/2024 14:46:43,29 or 30 I guess ,Male,1,3,I guess Odisha.,5
+7/31/2024 14:58:06,65,Male,2,3,Odisha,3
+7/31/2024 14:58:46,27,Female,2,5,New Delhi,1
+7/31/2024 14:59:06,35,Male,2,4,West Bengal,5
+7/31/2024 15:01:19,45,Female,1,4,Maharashtra,5
+7/31/2024 15:01:49,55,Female,2,4,Odisha,5
+7/31/2024 15:02:08,56,Male,2,2,Odisha,5
+7/31/2024 15:22:34,26,Female,2,5,Odisha,5
+7/31/2024 15:23:11,36,Male,2,1,   ,1
+7/31/2024 15:25:31,30,Male,1,4,Delhi,5
+7/31/2024 17:37:46,45,Male,2,3,Odisha,3
+7/31/2024 17:38:20,28,Female,2,5,Jharkhand,5
+7/31/2024 17:38:28,40,Male,2,4,Odisha ,5
+7/31/2024 17:38:46,36,Female,1,4,Odisha,2
+7/31/2024 17:39:54,30,Female,1,5,Odisha ,5
+7/31/2024 17:40:28,35,Male,1,3,West Bengal ,5
+7/31/2024 17:41:00,30,Female,1,5,Karnataka ,5
+7/31/2024 17:41:08,32,Male,1,5,Odisha,5
+7/31/2024 17:42:51,36,Female,2,5,Odisha ,5
+7/31/2024 17:42:51,32,Male,2,5,Bihar,5
+7/31/2024 17:58:11,Ashis Kumar Pati,Male,2,5,INDIA,5
+7/31/2024 17:58:32,Ashis Kumar Pati,Male,1,5,India,4
+7/31/2024 17:59:05,Ashis Kumar Pati,Male,2,4,India,3
+7/31/2024 17:59:24,Ashis Kumar Pati,Male,2,5,India,5
+7/31/2024 17:59:40,Ashis Kumar Pati,Male,2,4,India,5
+7/31/2024 18:14:28,54,Male,1,5,Odisha ,4
+7/31/2024 18:57:36,0,Male,2,4,0,3
+7/31/2024 18:59:48,25,Male,1,1,N/A,2
+7/31/2024 19:20:34,35,Male,2,4,West Bengal,5
+7/31/2024 19:21:18,32,Female,2,5,West Bengal,4
+7/31/2024 19:21:56,27,Female,2,4,Rajasthan,4
+7/31/2024 19:23:09,S,Male,2,4,Odisha,3
+7/31/2024 19:23:47,30,Male,1,4,Odisha,5
+7/31/2024 19:24:40,M,Female,1,4,Uttar Pradesh,4
+7/31/2024 19:25:03,29,Male,2,4,Odisha,5
+7/31/2024 19:25:41, ,Male,2,3,Odisha,4
+7/31/2024 19:26:15,32,Male,1,4,Odisha,5
+7/31/2024 19:26:36,39,Female,2,4,Odisha,5
+7/31/2024 19:31:48,28,Male,2,5,Odisha ,5
+7/31/2024 19:38:38,27,Male,2,5,Don't know,5
+7/31/2024 19:39:29,27,Male,2,5,Don't know,5
+7/31/2024 19:48:28,Ashis Kumar Pati,Male,2,5,Odisha,5
